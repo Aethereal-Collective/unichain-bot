@@ -1,8 +1,8 @@
 {
-  "name": "evm-tx-deployer-bot.git",
+  "name": "unichain-bot.git",
   "version": "1.0.0",
   "type": "module",
-  "description": "The Evm Testnet Bot is a powerful tool designed for interacting with EVM-compatible test networks. This bot automates transaction processes, enabling users to perform actions such as ETH to WETH swap interactions seamlessly and daily. Additionally, it provides a built-in smart contract deployment feature, making it an ideal solution for you to do your testnet airdrop.",
+  "description": "Unichain Testnet BOT, Auto Bridge, Auto Contract Deploy, Auto Transaction",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -13,17 +13,17 @@
   },
   "keywords": [
     "testnet-bot",
-    "evm-tx-deployer-bot.git",
+    "unichain-bot.git",
     "evm-bot",
     "smartcontract",
-    "widiskel",
+    "aethereal",
     "smartcontract-deployer"
   ],
-  "author": "Widiskel",
+  "author": "aethereal",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Widiskel/evm-tx-deployer-bot.git.git"
+    "url": "git+https://github.com/Aethereal-Collective/unichain-bot.git.git"
   },
   "dependencies": {
     "@inquirer/prompts": "^7.2.0",
