@@ -1,7 +1,7 @@
 # UNICHAIN TESTNET BOT
 Doing testnet on unichain sepolia , make it easy!
 
-# Join US
+# Join Aethereal
 - [Discord](https://discord.gg/aethereal)
 - [X](https://x.com/aethereal_co)
 
