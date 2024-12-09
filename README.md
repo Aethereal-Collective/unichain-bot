@@ -29,11 +29,11 @@ Doing testnet on unichain sepolia , make it easy!
    ```
    npm install
    ```
-4. Configure your accounts
+4. Configure your accounts (Private Key)
    ```
    nano accounts/accounts.js
    ```
-5. Configure the bot config
+5. Configure the bot config (Just Paste Your API)
     ```
    nano config/config.js
     ```
