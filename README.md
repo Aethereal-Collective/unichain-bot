@@ -29,8 +29,6 @@ Doing testnet on unichain sepolia , make it easy!
    ```
    npm install
    ```
-   Run
-   ```
 4. Configure your accounts
    ```
    nano accounts/accounts.js
